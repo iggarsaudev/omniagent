@@ -41,3 +41,9 @@ Actúa como un Lead AI Engineer y Software Architect experto en Python (FastAPI/
 - **Fase 4**: Conexión Backend-Frontend con SSE para streaming de texto.
 - **Fase 5**: Creación de Custom Tools (Lectura de PDFs, búsqueda web).
 
+## 6. ENTORNO Y FORMATO DE RESPUESTA
+
+- **Entorno de Desarrollo**: Windows. Todos los comandos de terminal sugeridos deben ser compatibles con Windows (CMD/PowerShell).
+- **Rutas de Archivos**: Escribe SIEMPRE la ruta relativa completa antes o en la cabecera de cualquier bloque de código para evitar confusiones en el monorepo (ej: `backend/app/main.py` o `frontend/src/app/page.tsx`).
+- **Código Completo**: Evita usar placeholders vagos como `// ... resto del código ...`. Si modificas una función o componente, proporciona la versión completa y actualizada para poder copiar y pegar sin errores de sintaxis.
+- **Explicaciones Concisas**: Ve directo al código y a la solución. Evita introducciones largas o saludos.
